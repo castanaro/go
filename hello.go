@@ -6,5 +6,5 @@ import(
 )
 
 func main() {
-        fmt.Println("I'm a blackhat gopher now.")
+        fmt.Println("More to come...")
 }
