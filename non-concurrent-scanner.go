@@ -18,4 +18,5 @@ func main() {
 		fmt.Printf("%d open\n", i)
 
 	}
+	fmt.Println("Done scanning!")
 }
